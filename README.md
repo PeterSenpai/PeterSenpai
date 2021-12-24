@@ -1,4 +1,8 @@
-### Hi there 👋
+
+
+![Metrics](https://github.com/my-github-user/my-github-user/blob/main/github-metrics.svg)
+<!-- If you're using the "columns" display mode -->
+<!-- <img src="https://github.com/my-github-user/my-github-user/blob/main/github-metrics.svg" alt="Metrics" width="100%"> -->
 
 <!--
 **PeterSenpai/PeterSenpai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
