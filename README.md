@@ -1,5 +1,9 @@
 
 
+- 🔭 I’m currently working on becoming a better person
+- 🌱 I’m currently learning how to be a better person.
+
+
 ![Metrics](https://github.com/PeterSenpai/PeterSenpai/blob/main/github-metrics.svg)
 <!-- If you're using the "columns" display mode -->
 <!-- <img src="https://github.com/my-github-user/my-github-user/blob/main/github-metrics.svg" alt="Metrics" width="100%"> -->
