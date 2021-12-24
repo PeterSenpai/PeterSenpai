@@ -1,7 +1,9 @@
+### Hi there :wave: 
 
+My name is Peter Tao. I am a computer science student at University of Toronto. I like to learn and build things.
 
-- 🔭 I’m currently working on becoming a better person
-- 🌱 I’m currently learning how to be a better person.
+- 🔭 I’m currently working on being a happy person.
+- 🌱 I’m currently learning how to learn better and more efficiently.
 
 
 ![Metrics](https://github.com/PeterSenpai/PeterSenpai/blob/main/github-metrics.svg)
