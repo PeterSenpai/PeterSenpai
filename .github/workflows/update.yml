@@ -1,6 +1,6 @@
 name: Update
 on:
-  schedule: [{cron: "00 01,13 * * *"}]
+  schedule: [{cron: "0 23 */7 * *"}]
   workflow_dispatch:
   push: {branches: ["master", "main"]}
 jobs:
